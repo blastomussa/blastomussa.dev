@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BIT Consulting</title>
+    <link>https://blastomussa.dev/</link>
+    <description>Recent content on BIT Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2022 blastomussa.dev</copyright>
+    <lastBuildDate>Thu, 10 Nov 2022 18:21:09 -0500</lastBuildDate><atom:link href="https://blastomussa.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me 👨‍💻</title>
+      <link>https://blastomussa.dev/about/</link>
+      <pubDate>Thu, 10 Nov 2022 18:21:09 -0500</pubDate>
+      
+      <guid>https://blastomussa.dev/about/</guid>
+      <description>Hi Everyone 👋,
+My name is Joe courtney and I am an IT systems engineer from Massachussetts. I presently work as a techinical support engineer at a CSP that supports large-scale enterprise Azure environments.</description>
+      
+    </item>
+    
+    <item>
+      <title>Crayon CloudIQ SDK for Python</title>
+      <link>https://blastomussa.dev/posts/cloudiq-sdk/</link>
+      <pubDate>Thu, 10 Nov 2022 18:21:09 -0500</pubDate>
+      
+      <guid>https://blastomussa.dev/posts/cloudiq-sdk/</guid>
+      <description>This project is an SDK for Crayon&amp;rsquo;s CloudIQ API that can be used in Python scripts and applications. Provides a simple interface for individuals who are inexperienced in C# to test Cloud IQ API calls with Python.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blastomussa.dev/posts/cloudiq-sdk/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

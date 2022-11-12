@@ -16,7 +16,7 @@ dateFormat = "January 2, 2006"
   name = "Joe Courtney"
   image = "img/profile.jpg"
   headline = "Fixing the Cloud"
-  bio = "Dedicated IT systems engineer with 6 years of experience in the IT industry and a passion for automation and cloud technologies. Python expert and API integration specialist. BS in Information Technology, CompTIA Security+ and Microsoft Certified: Azure Administrator Associate. Currently enrolled in the MSIT program at the University of Massachusetts."
+  bio = "Dedicated IT systems engineer with 6 years of experience in the IT industry. Python expert and API integration specialist. BS in Information Technology, CompTIA Security+ and Microsoft Certified: Azure Administrator Associate. Currently enrolled in the MSIT program at the University of Massachusetts."
 
   links = [
     { github = "https://github.com/blastomussa" },
