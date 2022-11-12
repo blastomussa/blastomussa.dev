@@ -35,22 +35,5 @@ Senior Technical Support Engineer @ Crayon Software Experts, LLC
 - <a href="https://github.com/blastomussa/FreshPyService">FreshPyService</a>: Python implementation of FreshService's API
 
 
-## Education (the expensive ones 💰)
-
-- Currently attending UMass Lowell's MSIT program
-- Bachelor's of Science: Information Technology, UMass Lowell
-
-
-## Certifications (the good ones 🏴‍☠️)
-
-- CompTIA: Network+
-- CompTIA: Security+
-- Microsoft Certified: Azure Administrator Associate
-- Microsoft Certified: Azure AI Fundamentals
-- Microsoft Certified: Security, Compliance, and Identity Fundamentals
-
-[![Credly Badge](https://img.shields.io/badge/-Joe_Courtney-orange?style=for-the-badge&logo=Credly&logoColor=white)](https://www.credly.com/users/joseph-courtney/badges)
-
-
 
 

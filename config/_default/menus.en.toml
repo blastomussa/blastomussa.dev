@@ -20,6 +20,11 @@
  pageRef = "posts"
  weight = 10
 
+ [[main]]
+ name = "Resume"
+ pageRef = "resume"
+ weight = 15
+
 # [[main]]
 #  name = "Categories"
 #  pageRef = "categories"
