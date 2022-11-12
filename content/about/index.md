@@ -3,6 +3,9 @@ title: "About Me 👨‍💻"
 date: 2022-11-10T18:21:09-05:00
 draft: false
 showEdit: false
+showDate: false
+showWordCount: false
+showReadingTime: false
 ---
 Hi Everyone 👋, 
 
