@@ -6,17 +6,18 @@ weight = 1
 rtl = false
 
 title = "BIT Consulting"
-# logo = "img/logo.png"
+#logo = "img/logo.png"
 description = "Blastomussa IT Consulting"
-# copyright = "Copy, _right?_ :thinking_face:"
+copyright = "© 2022 blastomussa.dev"
 
-dateFormat = "2 January 2006"
+dateFormat = "January 2, 2006"
 
 [author]
   name = "Joe Courtney"
-  image = "img/blowfish_logo.png"
-  headline = "I'm only human"
-  bio = "A little bit about you"
+  image = "img/profile.jpg"
+  headline = "Fixing the Cloud"
+  bio = "Dedicated IT systems engineer with 6 years of experience in the IT industry and a passion for automation and cloud technologies. Python expert and API integration specialist. BS in Information Technology, CompTIA Security+ and Microsoft Certified: Azure Administrator Associate. Currently enrolled in the MSIT program at the University of Massachusetts."
+
   links = [
     { github = "https://github.com/blastomussa" },
     { linkedin = "https://www.linkedin.com/in/joseph-courtney/" },
