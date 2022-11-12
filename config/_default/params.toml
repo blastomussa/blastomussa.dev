@@ -56,19 +56,19 @@ enableCodeCopy = true
   invertPagination = false
   showReadingTime = true
   showTableOfContents = true
-  showTaxonomies = false 
+  showTaxonomies = true
   showAuthorsBadges = false 
   showWordCount = true
   showSummary = true
   sharingLinks = [ "linkedin", "twitter", "reddit", "facebook", "email"]
 
 [list]
-  #showHero = true
-  #heroStyle = "background" # valid options: basic, big, background
+  # showHero = true
+  # heroStyle = "background" # valid options: basic, big, background
   showBreadcrumbs = false
-  showSummary = false
-  #showViews = true
-  #showLikes = true
+  showSummary = true
+  # showViews = true
+  # showLikes = true
   showTableOfContents = false
   showCards = false
   groupByYear = true

@@ -2,6 +2,10 @@
 title: "Crayon CloudIQ SDK for Python"
 date: 2022-11-10T18:21:09-05:00
 draft: false
+
+tags: ["Python", "REST API"]
+showEdit: false
+showTaxonomies: true
 ---
 This project is an SDK for Crayon's CloudIQ API that can be used in Python
 scripts and applications. Provides a simple interface for individuals who are

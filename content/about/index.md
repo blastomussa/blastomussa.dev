@@ -2,6 +2,7 @@
 title: "About Me 👨‍💻"
 date: 2022-11-10T18:21:09-05:00
 draft: false
+showEdit: false
 ---
 Hi Everyone 👋, 
 
@@ -22,6 +23,8 @@ Senior Technical Support Engineer @ Crayon Software Experts, LLC
 - bash 🎶
 - HTML/CSS/JS 🌴
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blastomussa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Recent Projects (the fun ones 😸)
 
 - <a href="https://github.com/blastomussa/Azure-NTier-Terraform">N-Tier Azure Application</a>: Terraform, Flask, Docker, and AKS
@@ -32,6 +35,12 @@ Senior Technical Support Engineer @ Crayon Software Experts, LLC
 - <a href="https://github.com/blastomussa/FreshPyService">FreshPyService</a>: Python implementation of FreshService's API
 
 
+## Education (the expensive ones 💰)
+
+- Currently attending UMass Lowell's MSIT program
+- Bachelor's of Science: Information Technology, UMass Lowell
+
+
 ## Certifications (the good ones 🏴‍☠️)
 
 - CompTIA: Network+
@@ -40,9 +49,8 @@ Senior Technical Support Engineer @ Crayon Software Experts, LLC
 - Microsoft Certified: Azure AI Fundamentals
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals
 
-## Education (the expensive ones 💰)
+[![Credly Badge](https://img.shields.io/badge/-Joe_Courtney-orange?style=for-the-badge&logo=Credly&logoColor=white)](https://www.credly.com/users/joseph-courtney/badges)
 
-- Currently attending UMass Lowell's MSIT program
-- Bachelor's of Science: Information Technology, UMass Lowell
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blastomussa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
