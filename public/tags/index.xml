@@ -7,20 +7,65 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2022 blastomussa.dev</copyright>
-    <lastBuildDate>Thu, 10 Nov 2022 18:21:09 -0500</lastBuildDate><atom:link href="https://blastomussa.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blastomussa.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker</title>
+      <link>https://blastomussa.dev/tags/docker/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blastomussa.dev/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FastAPI</title>
+      <link>https://blastomussa.dev/tags/fastapi/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blastomussa.dev/tags/fastapi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kubernetes</title>
+      <link>https://blastomussa.dev/tags/kubernetes/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blastomussa.dev/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Python</title>
       <link>https://blastomussa.dev/tags/python/</link>
-      <pubDate>Thu, 10 Nov 2022 18:21:09 -0500</pubDate>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://blastomussa.dev/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>React</title>
+      <link>https://blastomussa.dev/tags/react/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blastomussa.dev/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terraform</title>
+      <link>https://blastomussa.dev/tags/terraform/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blastomussa.dev/tags/terraform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>REST API</title>
       <link>https://blastomussa.dev/tags/rest-api/</link>
-      <pubDate>Thu, 10 Nov 2022 18:21:09 -0500</pubDate>
+      <pubDate>Mon, 26 Sep 2022 18:21:09 -0500</pubDate>
       
       <guid>https://blastomussa.dev/tags/rest-api/</guid>
       <description></description>

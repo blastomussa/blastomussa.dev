@@ -6,7 +6,7 @@
 # https://nunocoracao.github.io/blowfish/docs/configuration/#theme-parameters
 
 colorScheme = "blowfish"
-defaultAppearance = "dark" # valid options: light or dark
+defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
 
 enableSearch = true
@@ -29,7 +29,7 @@ enableCodeCopy = true
   layout = "profile" # valid options: page, profile, hero, card, background, custom
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = false
-  showRecentItems = 5
+  showRecentItems = 1
   showMoreLink = false
   showMoreLinkDest = "/posts"
   cardView = false

@@ -13,14 +13,6 @@
   
     
       <url>
-            <loc>https://blastomussa.dev/</loc>
-            <lastmod>2022-11-10T18:21:09-05:00</lastmod>
-            <priority>0</priority>
-          </url>
-    
-  
-    
-      <url>
             <loc>https://blastomussa.dev/about/</loc>
             <lastmod>2022-11-10T18:21:09-05:00</lastmod>
             <changefreq>always</changefreq>
@@ -30,8 +22,43 @@
   
     
       <url>
-            <loc>https://blastomussa.dev/posts/cloudiq-sdk/</loc>
-            <lastmod>2022-11-10T18:21:09-05:00</lastmod>
+            <loc>https://blastomussa.dev/</loc>
+            <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+            <priority>0</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://blastomussa.dev/tags/docker/</loc>
+            <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://blastomussa.dev/tags/fastapi/</loc>
+            <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://blastomussa.dev/posts/virtualization-project-msit5650/</loc>
+            <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://blastomussa.dev/tags/kubernetes/</loc>
+            <lastmod>2022-11-02T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
@@ -40,7 +67,7 @@
     
       <url>
             <loc>https://blastomussa.dev/posts/</loc>
-            <lastmod>2022-11-10T18:21:09-05:00</lastmod>
+            <lastmod>2022-11-02T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
@@ -49,7 +76,7 @@
     
       <url>
             <loc>https://blastomussa.dev/tags/python/</loc>
-            <lastmod>2022-11-10T18:21:09-05:00</lastmod>
+            <lastmod>2022-11-02T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
@@ -57,8 +84,8 @@
   
     
       <url>
-            <loc>https://blastomussa.dev/tags/rest-api/</loc>
-            <lastmod>2022-11-10T18:21:09-05:00</lastmod>
+            <loc>https://blastomussa.dev/tags/react/</loc>
+            <lastmod>2022-11-02T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
@@ -67,7 +94,34 @@
     
       <url>
             <loc>https://blastomussa.dev/tags/</loc>
-            <lastmod>2022-11-10T18:21:09-05:00</lastmod>
+            <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://blastomussa.dev/tags/terraform/</loc>
+            <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://blastomussa.dev/posts/cloudiq-sdk/</loc>
+            <lastmod>2022-09-26T18:21:09-05:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://blastomussa.dev/tags/rest-api/</loc>
+            <lastmod>2022-09-26T18:21:09-05:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
