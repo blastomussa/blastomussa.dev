@@ -16,7 +16,8 @@ enableCodeCopy = true
 # robots = ""
 
 [header]
-  layout = "basic" # valid options: basic, fixed
+  layout = "fixed"
+  #layout = "basic" # valid options: basic, fixed
 
 [footer]
  # showMenu = true
@@ -27,10 +28,10 @@ enableCodeCopy = true
 
 [homepage]
   layout = "profile" # valid options: page, profile, hero, card, background, custom
-  #homepageImage = "IMAGE.jpg" # used in: hero, and card
-  showRecent = false
-  showRecentItems = 1
-  showMoreLink = false
+  #homepageImage = "content/posts/azure-ntier-application/azure-architecture.jpeg" # used in: hero, and card
+  showRecent = true
+  showRecentItems = 2
+  showMoreLink = true
   showMoreLinkDest = "/posts"
   cardView = false
   cardViewScreenWidth = false
@@ -63,8 +64,8 @@ enableCodeCopy = true
   sharingLinks = [ "linkedin", "twitter", "reddit", "facebook", "email"]
 
 [list]
-  # showHero = true
-  # heroStyle = "background" # valid options: basic, big, background
+  #showHero = true
+  #heroStyle = "background" # valid options: basic, big, background
   showBreadcrumbs = false
   showSummary = true
   # showViews = true

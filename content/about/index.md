@@ -1,5 +1,5 @@
 ---
-title: "About Me 👨‍💻"
+title: "About"
 date: 2022-11-10T18:21:09-05:00
 draft: false
 showEdit: false
@@ -7,7 +7,7 @@ showDate: false
 showWordCount: false
 showReadingTime: false
 ---
-Hi Everyone 👋, 
+Hi Everyone, 
 
 My name is Joe courtney and I am an IT systems engineer from Massachussetts. I presently work as 
 a techinical support engineer at a CSP that supports large-scale enterprise Azure environments. 
@@ -18,17 +18,17 @@ my IaC skills with Terraform and my API skills with Python 😎
 Senior Technical Support Engineer @ Crayon Software Experts, LLC
 [![Linkedin Badge](https://img.shields.io/badge/-blastomussa-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-courtney)
 
-## Skills (abridged 🌁)
+## Skills
 
-- Python 🐱‍🚀
-- Terraform 👾
-- PowerShell 🔥
-- bash 🎶
-- HTML/CSS/JS 🌴
+- Python 
+- Terraform
+- PowerShell
+- bash
+- HTML/CSS/JS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blastomussa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Recent Projects (the fun ones 😸)
+## Recent Projects
 
 - <a href="https://github.com/blastomussa/Azure-NTier-Terraform">N-Tier Azure Application</a>: Terraform, Flask, Docker, and AKS
 - <a href="https://github.com/blastomussa/soap-recipe-api">Soap Recipe API</a>: FastAPI REST API with JWT based Oauth2 implementation and Docker Uvicorn deployment
