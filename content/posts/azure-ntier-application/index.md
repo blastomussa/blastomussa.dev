@@ -87,27 +87,27 @@ There were many moving pieces to this deployment so the first thing that was nec
 This project requires a few steps to properly configure the local environment to authenticate to Azure, GitHub, and other services correctly. The simplest and quickest way to authenticate Terraform to Azure is to install Azure-CLI and login using an account with administrative privileges. Some of the steps below are specific for macOS. There are other authentication options available here: https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs#authenticating-to-azure 
 
 1.	Install Azure-CLI. 
-    a.	`brew update && brew install azure-cli`
-    b.	`az login`
-    c.	Authenticate with the appropriate Azure admin credentials 
+    1.	`brew update && brew install azure-cli`
+    2.	`az login`
+    3.	Authenticate with the appropriate Azure admin credentials 
 2.	Install Terraform
-    a.	`brew tap hashicorp/tap`
-    b.	`brew install hashicorp/tap/terraform`
-    c.	`brew update`
-    d.	`brew upgrade hashicorp/tap/terraform`
-    e.	Verify the installation with `terraform -version`
+    1.	`brew tap hashicorp/tap`
+    2.	`brew install hashicorp/tap/terraform`
+    3.	`brew update`
+    4.	`brew upgrade hashicorp/tap/terraform`
+    5.	Verify the installation with `terraform -version`
 3.	Create a Personal Access Token for the project’s GitHub repository 
-    a.	Login to GitHub
-    b.	Navigate to the account Settings and Choose Developer in the left-hand menu
+    1.	Login to GitHub
+    2.	Navigate to the account Settings and Choose Developer in the left-hand menu
     <img src="image003.jpeg" alt="screenshot"></img>
-    c.	Choose Personal Access Token then click the Generate Token button
-    d.	On the generation page provide the public_repo and repo:status scopes to the new PAT
+    3.	Choose Personal Access Token then click the Generate Token button
+    4.	On the generation page provide the public_repo and repo:status scopes to the new PAT
     <img src="image004.jpeg" alt="screenshot"></img>
-    e.	Copy the PAT token value and save it in a file named terraform.tfvars 
+    5.	Copy the PAT token value and save it in a file named terraform.tfvars 
     <img src="image005.jpeg" alt="screenshot"></img>
 4.	Create a Service Principle for AKS with Azure-CLI
-    a.	`az ad sp create-for-rbac --role="Contributor" --scopes="/subscriptions/********`
-    b.	Save the appId and password from the output in the terraform.tfvars file
+    1.	`az ad sp create-for-rbac --role="Contributor" --scopes="/subscriptions/********`
+    2.	Save the appId and password from the output in the terraform.tfvars file
     <img src="image006.jpeg" alt="screenshot"></img>
 
 ### Terraform
