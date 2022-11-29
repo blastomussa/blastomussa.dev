@@ -8,7 +8,7 @@ phases:
   build:
     commands:
       - echo Install Hugo static site generator 
-      - snap install hugo
+      - go install -tags extended github.com/gohugoio/hugo@latest
       - echo Build static site 
       - hugo -D 
       - echo Build started on `date`
