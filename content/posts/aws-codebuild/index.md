@@ -39,3 +39,6 @@ The `hugo new site` command generates the directory structure needed for the sit
 For development, a Hugo site can be served dynamically using the `hugo serve` command. By default, this will deploy the site on http://127.0.0.1:1313/ and update the site's content with any change to a file in the site's directory. However, serving the site in this way is only meant for development.
 
 In order to build the site into a production ready state, the `hugo` command is used. This compiles the content within the site's file structure into a sub-directory called ***public***. The contents of the ***public*** folder can be copied to an Apache or Nginx instance to serve the site statically. 
+
+## AWS Codebuild 
+
