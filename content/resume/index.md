@@ -24,10 +24,17 @@ sharingLinks: false
     </thead>
     <tbody>
         <tr>
+            <td ><img class="customEntitityLogo" src="umasschan.png"/></td>
+            <td><a href="https://www.umassmed.edu/" target="_blank">UMass Chan Medical School</a></td>
+            <td>Azure Cloud Engineer</td>
+            <td>2023 - Present</td>
+            <td>Full Remote</td>
+        </tr>
+        <tr>
             <td ><img class="customEntitityLogo" src="crayon.png"/></td>
             <td><a href="https://www.crayon.com/us/" target="_blank">Crayon Software Experts, LLC</a></td>
             <td>Senior Technical Support Engineer</td>
-            <td>2022 - Present</td>
+            <td>2022 - 2023t</td>
             <td>Full Remote</td>
         </tr>
         <tr>
@@ -100,6 +107,8 @@ sharingLinks: false
 
 ## Certifications
 
+[![Credly Badge](https://img.shields.io/badge/-Credly_Verification-orange?style=for-the-badge&logo=Credly&logoColor=white)](https://www.credly.com/users/joseph-courtney/badges)
+
 <table>
     <thead>
         <tr>
@@ -110,10 +119,31 @@ sharingLinks: false
         </tr>
     </thead>
     <tbody>
+        <tr> 
+            <td><img class="customEntitityLogo" src="security.png"/></td>
+            <td>CompTIA Security+ ce Certification</td>
+            <td rowspan=2><a href="https://www.comptia.org" target="_blank">CompTIA®</a></td>
+            <td>2022</td>
+        </tr>
+        <tr>
+            <td><img class="customEntitityLogo" src="network.png"/></td>
+            <td>CompTIA Network+ ce Certification</td>
+            <td>2021</td>
+        </tr>
+        <tr>
+            <td ><img class="customEntitityLogo" src="az305.png"/></td> 
+            <td>Microsoft Certified: Azure Solutions Architect Expert</td>
+            <td rowspan=6><a href="https://learn.microsoft.com/en-us/users/joecourtney/" target="_blank">Microsoft</a></td>
+            <td>2023</td>
+        </tr>
+        <tr>
+            <td ><img class="customEntitityLogo" src="az500.png"/></td> 
+            <td>Microsoft Certified: Azure Security Engineer Associate</td>
+            <td>2022</td>
+        </tr>
         <tr>
             <td ><img class="customEntitityLogo" src="az104.png"/></td> 
             <td>Microsoft Certified: Azure Administrator Associate</td>
-            <td rowspan=4><a href="https://learn.microsoft.com/en-us/users/joecourtney/" target="_blank">Microsoft</a></td>
             <td>2022</td>
         </tr>
         <tr>
@@ -131,18 +161,6 @@ sharingLinks: false
             <td>Microsoft Certified: Azure Fundamentals</td>
             <td>2021</td>
         </tr>
-        <tr> 
-            <td><img class="customEntitityLogo" src="security.png"/></td>
-            <td>CompTIA Security+ ce Certification</td>
-            <td rowspan=2><a href="https://www.comptia.org" target="_blank">CompTIA®</a></td>
-            <td>2022</td>
-        </tr>
-        <tr>
-            <td><img class="customEntitityLogo" src="network.png"/></td>
-            <td>CompTIA Network+ ce Certification</td>
-            <td>2021</td>
-        </tr>
     </tbody>
 </table>
 
-[![Credly Badge](https://img.shields.io/badge/-Credly_Verification-orange?style=for-the-badge&logo=Credly&logoColor=white)](https://www.credly.com/users/joseph-courtney/badges)
