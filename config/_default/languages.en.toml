@@ -8,14 +8,14 @@ rtl = false
 title = "Joseph Courtney"
 #logo = "img/logo.png"
 description = "Blastomussa IT Consulting"
-copyright = "© 2022 blastomussa.dev"
+copyright = "© 2023 blastomussa.dev"
 
 dateFormat = "January 2, 2006"
 
 [author]
   name = "Joe Courtney"
   image = "img/profile.jpg"
-  headline = "Fixing the cloud one click at a time..."
+  headline = "Building the cloud one click at a time..."
   bio = "Dedicated systems engineer with 6 years of experience in the IT industry and a passion for automation and cloud technologies. Python expert and API integration specialist. B.Sc. in Information Technology, CompTIA Security+, Microsoft Certified: Azure Solutions Architect Expert, and Microsoft Certified: Azure Security Engineer Associate. Currently enrolled in the MSIT program at the University of Massachusetts."
 
   links = [
