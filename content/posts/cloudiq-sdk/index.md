@@ -15,7 +15,7 @@ the API using Oauth2. It can be used to create tenants, create licensing subscri
 and monitor billing. Anything that can be done in the Cloud-IQ portal can be automated 
 using this package. 
 
-Includes several preconfigured data schema and API methods.
+Includes several pre-configured data schema and API methods.
 Custom blocks of data can be posted to the API as Python dictionaries. REST methods: 
 GET, POST, PATCH, PUT, and DELETE can be called with an API endpoint and data dictionary as arguments. 
 
@@ -141,7 +141,7 @@ How to Create Cloud-IQ API Client Credentials
 	tenant_name = "tenant_name"
 	domain_prefix = "domain_prefix"
 
-	# Intialize Tenant and Agreement objects
+	# Initialize Tenant and Agreement objects
 	tenant = crayon_api.CustomerTenantDetailed(
 		tenant_name=tenant_name,
 		domain_prefix=domain_prefix,
@@ -192,7 +192,7 @@ How to Create Cloud-IQ API Client Credentials
 		duration="P1M"
 	)
 
-	 # Create Azure P2 Subsription
+	 # Create Azure P2 Subscription
 	sub = crayon_api.createSubscription(azure_subscription.subscription)
 	print(sub)
 	```

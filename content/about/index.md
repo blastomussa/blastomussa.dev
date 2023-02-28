@@ -9,7 +9,7 @@ showReadingTime: false
 ---
 Hi Everyone, 
 
-My name is Joe courtney and I am an IT systems engineer from Massachussetts. I currently work for UMass Chan Medical School as a Cloud Engineer. I have a passion for working with APIs and cloud technologies and I am Currently honing my IaC skills with Terraform and my API skills with Python 😎
+My name is Joe courtney and I am an IT systems engineer from Massachusetts. I currently work for UMass Chan Medical School as a Cloud Engineer. I have a passion for working with APIs and cloud technologies and I am Currently honing my IaC skills with Terraform and my API skills with Python 😎
 
 Cloud Engineer @ UMass Chan Medical School
 [![Linkedin Badge](https://img.shields.io/badge/-blastomussa-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-courtney)
