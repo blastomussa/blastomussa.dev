@@ -78,7 +78,7 @@ How to Create Cloud-IQ API Client Credentials
 	export USERNAME="example@example.com"
 	export PASSWORD="Password123456"
 	```
-	An alternative method is to use a config.ini file containing the credentials and retrive them using the configparser module.
+	An alternative method is to use a config.ini file containing the credentials and retrieve them using the configparser module.
 	```
 	import configparser
 	from cloudiq import CloudIQ
@@ -102,18 +102,54 @@ How to Create Cloud-IQ API Client Credentials
 	```
 	**See examples folder for authentication demos using configparser, ENV variables, and Azure DevOps Pipelines** 
 
+## **Returned Data**
+
+Data that is returned by the API is saved into a response object (except for getToken and validateToken). The response object contains values such as the status_code, headers, cookies, and the text returned by the API call.
+
+* To return the json data from the response use response.json() class method
+
+* To return the status code use the response.status_code variable
+
+* All successful API calls either return **200 OK**, **201 Created**, or **204 No Content**
+
+* Most error responses also provide a detailed error message in JSON form
+
+* If you receive a 500 error, the data Schema payload is most likely the issue. It may be formatted incorrectly or missing required fields.
+
+**Remember to handle error statuses when writing automations**
+
+### Error Handling Example using Return Status Code:
+
+```
+response = crayon_api.me()
+
+if(int(response.status_code) == 200):
+	# Handle JSON data
+	print(response.json())
+else:
+	# Handle Error
+	print(response.status_code)
+	exit(1)
+```
+
+For a full explanation of the fields within a response object, please review the information in the following links:
+
+* Official Requests.Response class documentation: https://docs.python-requests.org/en/latest/api/#requests.Response 
+
+* W3 Schools: https://www.w3schools.com/PYTHON/ref_requests_response.asp
+
 ## **Example calls**
 
 1. Make an unauthenticated test ping to the API
 	```
 	response = crayon_api.ping()
-	print(response)
+	print(response,json())
 	```
 
 2. Get information about the currently authenticated user
 	```
 	response = crayon_api.me()
-	print(response)
+	print(response.json())
 	```
 
 3. Make a raw GET request:
@@ -125,7 +161,7 @@ How to Create Cloud-IQ API Client Credentials
 	}
 	# make a GET request to https://api.crayon.com/api/v1/AgreementProducts
 	response = crayon_api.get("https://api.crayon.com/api/v1/AgreementProducts",params)
-	print(response)
+	print(response.json())
 	```
 	**Data can be sent to the API as a standard Python dictionary object**
 
@@ -170,19 +206,19 @@ How to Create Cloud-IQ API Client Credentials
 
 	#Create New Tenant
 	new_tenant = crayon_api.createTenant(tenant.tenant)
-	print(new_tenant)
+	print(new_tenant.json())
 
 	# Agree to Microsoft Customer Agreement
 	tenant_id = new_tenant["Tenant"]["Id"]  
 	agreement = crayon_api.createTenantAgreement(tenant_id,agreement.agreement)
-	print(agreement)
+	print(agreement.json())
 	```
 
 6. Buy a Microsoft license for a tenant using the SubscriptionDetailed schema:
 	```
 	tenant_id=123456
 
-	 # Create Subscription objects
+	# Create Subscription objects
 	azure_subscription = crayon_api.SubscriptionDetailed(
 		name="Azure P2 Subscription",
 		tenant_id=tenant_id,
@@ -192,9 +228,9 @@ How to Create Cloud-IQ API Client Credentials
 		duration="P1M"
 	)
 
-	 # Create Azure P2 Subscription
-	sub = crayon_api.createSubscription(azure_subscription.subscription)
-	print(sub)
+	# Create Azure P2 Subscription
+	subscription = crayon_api.createSubscription(azure_subscription.subscription)
+	print(subscription.json)
 	```
 
 ##  **Docstring**
