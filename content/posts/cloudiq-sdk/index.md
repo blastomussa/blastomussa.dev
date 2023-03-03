@@ -7,8 +7,7 @@ tags: ["Python", "REST API", "PyPi"]
 showEdit: false
 showTaxonomies: true
 ---
-# **Crayon CloudIQ SDK for Python**
-
+\
 This project is an SDK for Crayon's CloudIQ API that can be used in Python
 scripts and applications. Provides a simple interface to authenticate with 
 the API using Oauth2. It can be used to create tenants, create licensing subscriptions,
@@ -230,7 +229,7 @@ For a full explanation of the fields within a response object, please review the
 
 	# Create Azure P2 Subscription
 	subscription = crayon_api.createSubscription(azure_subscription.subscription)
-	print(subscription.json)
+	print(subscription.json())
 	```
 
 ##  **Docstring**
