@@ -3,7 +3,7 @@ title: "Crayon CloudIQ SDK for Python"
 date: 2023-02-20
 draft: false
 
-tags: ["Python", "REST API", "PyPi"]
+tags: ["Python", "REST API", "PyPI"]
 showEdit: false
 showTaxonomies: true
 ---
@@ -18,8 +18,9 @@ Includes several pre-configured data schema and API methods.
 Custom blocks of data can be posted to the API as Python dictionaries. REST methods: 
 GET, POST, PATCH, PUT, and DELETE can be called with an API endpoint and data dictionary as arguments. 
 
-PyPi: https://pypi.org/project/crayon-cloudiq-sdk/ 
-GitHub: https://github.com/blastomussa/crayon-python-sdk
+**PyPI Package: https://pypi.org/project/crayon-cloudiq-sdk/**
+
+**GitHub Repo: https://github.com/blastomussa/crayon-python-sdk**
 
 ## **Installation**
 
