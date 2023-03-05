@@ -1,7 +1,7 @@
 ---
 title: "How to upload a package to PyPI"
 date: 2023-02-26
-draft: false
+draft: true
 
 tags: ["Python", "REST API", "PyPI"]
 showEdit: false

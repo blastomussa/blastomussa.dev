@@ -8,6 +8,8 @@ hugo serve -D
 ```
 
 2. Build site into static files
+
 ```
+# -D to build drafts
 hugo -D
 ```
