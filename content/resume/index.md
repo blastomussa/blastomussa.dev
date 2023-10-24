@@ -28,21 +28,21 @@ sharingLinks: false
             <td><a href="https://www.umassmed.edu/" target="_blank">UMass Chan Medical School</a></td>
             <td>Azure Cloud Engineer</td>
             <td>2023 - Present</td>
-            <td>Full Remote</td>
+            <td>Worcester, MA</td>
         </tr>
         <tr>
             <td ><img class="customEntitityLogo" src="crayon.png"/></td>
             <td><a href="https://www.crayon.com/us/" target="_blank">Crayon Software Experts, LLC</a></td>
             <td>Senior Technical Support Engineer</td>
-            <td>2022 - 2023t</td>
-            <td>Full Remote</td>
+            <td>2022 - 2023</td>
+            <td>Dallas, Texas</td>
         </tr>
         <tr>
             <td rowspan=2><img class="customEntitityLogo" src="gcvs.png"/></td>
             <td rowspan=2><a href="https://www.gcvs.org" target="_blank">Greater Commonwealth Virtual School</a></td>
             <td>Tier III Technical Support - Webmaster</td>
             <td>2021-2022</td>
-            <td rowspan=2>Hybrid Remote </br>Greenfield, MA</td>
+            <td rowspan=2>Greenfield, MA</td>
         </tr>
         <tr>
             <td>&nbsp;&nbsp;Tier II Technical Support</td>
@@ -53,14 +53,14 @@ sharingLinks: false
             <td><a href="https://sics.org" target="_blank">Springfield International Charter School</a></td>
             <td>Information Technology Consultant</td>
             <td>2020 - 2021</td>
-            <td>Full Remote</td>
+            <td>Springfield, MA</td>
         </tr>
         <tr>
             <td ><img class="customEntitityLogo" src="sabis.png"/></td>
             <td><a href="https://www.sabis.net" target="_blank">SABIS® International Charter School</a></td>
             <td>IT Technician</br>ITL Administrator</td>
             <td>2019 - 2020</td>
-            <td>Hybrid Remote</br>Springfield, MA</td>
+            <td>Springfield, MA</td>
         </tr>
         <tr>
             <td ><img class="customEntitityLogo" src="vw.jpg"/></td>
@@ -87,13 +87,17 @@ sharingLinks: false
     </thead>
     <tbody>
         <tr>
-            <td rowspan=2><img class="customEntitityLogo" src="uml.svg"/></td>
-            <td rowspan=2><a href="https://www.uml.edu" target="_blank">University of Massachusetts</a></td>
-            <td>MS, Information Technology</td>
+            <td rowspan=3><img class="customEntitityLogo" src="uml.svg"/></td>
+            <td rowspan=3><a href="https://www.uml.edu" target="_blank">University of Massachusetts</a></td>
+            <td><a href="https://gps.uml.edu/degrees/grad/online-master-information-technology-degree.cfm">MS, Information Technology</a></td>
+            <td>2023</td>
+        </tr>
+         <tr>
+            <td>&nbsp;&nbsp;<a href="https://gps.uml.edu/certificates/grad/online-systems-models-management-graduate-certificate.cfm">Graduate Certificate in Systems Models and Management</a></td>
             <td>2023</td>
         </tr>
         <tr>
-            <td>&nbsp;&nbsp;BS, Information Technology</td>
+            <td><a href="https://gps.uml.edu/degrees/undergrad/online-bachelors-information-technology-degree.cfm">&nbsp;&nbsp;BS, Information Technology</a></td>
             <td>2019</td>
         </tr>
         <tr>
@@ -131,9 +135,14 @@ sharingLinks: false
             <td>2021</td>
         </tr>
         <tr>
+            <td ><img class="customEntitityLogo" src="sc100.png"/></td> 
+            <td>Microsoft Certified: Cybersecurity Architect Expert</td>
+            <td rowspan=7><a href="https://learn.microsoft.com/en-us/users/joecourtney/" target="_blank">Microsoft</a></td>
+            <td>2023</td>
+        </tr>
+        <tr>
             <td ><img class="customEntitityLogo" src="az305.png"/></td> 
             <td>Microsoft Certified: Azure Solutions Architect Expert</td>
-            <td rowspan=6><a href="https://learn.microsoft.com/en-us/users/joecourtney/" target="_blank">Microsoft</a></td>
             <td>2023</td>
         </tr>
         <tr>

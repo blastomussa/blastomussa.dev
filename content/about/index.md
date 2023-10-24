@@ -10,8 +10,15 @@ showReadingTime: false
 
 Hi Everyone, 
 
-My name is Joe courtney and I am an IT systems engineer from Massachusetts. I currently work for UMass Chan Medical School as a Cloud Engineer. I have a passion for working with APIs and cloud technologies and I am Currently honing my IaC skills with Terraform and my API skills with Python 😎
+My name is Joe courtney and I am a Systems Engineer from Massachusetts. I currently work for UMass Chan Medical School as a Cloud Engineer where I am the technical lead for a team that develops hybrid cloud infrastructure in Azure.   
 
+In my role, I wear multiple hats. From orchestrating the development, testing, and deployment of our university's Terraform Private Module Registry for key providers like azurerm, azurestack, azuread, and tfe, to unleashing the full power of automation on identity and security processes in Azure DevOps. My niche is automating everything identity, security, and infrastructure with a focus on Microsoft and RedHat products and services.
+
+I am in the process of honing my programming skills in Golang so I can contribute to open-sourced projects like the azurerm terraform provider but I am just at the beginning of that journey. In the meantime, I will be creating semi-regular blog posts on advanced topics regarding Azure, Terraform, and DevOps...mostly for my own personal records. 
+
+If you happen to find yourself on this site, I hope you can gain a little insight into whatever IT nonsense I decide to write about.
+
+\- Joe Courtney <br>
 Cloud Engineer @ UMass Chan Medical School
 [![Linkedin Badge](https://img.shields.io/badge/-blastomussa-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-courtney)
 
