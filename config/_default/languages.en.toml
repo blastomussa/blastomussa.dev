@@ -1,16 +1,21 @@
+[languages.en.params]
+  isoCode = "en"
+  rtl = false
+  description = "Blastomussa IT Consulting"
+  dateFormat = "January 2, 2006"
+  displayName = "EN"
+
 languageCode = "en"
 languageName = "English"
-displayName = "EN"
-isoCode = "en"
+
+
 weight = 1
-rtl = false
+
 
 title = "Joseph Courtney"
 #logo = "img/logo.png"
-description = "Blastomussa IT Consulting"
-copyright = "© 2023 blastomussa.dev"
 
-dateFormat = "January 2, 2006"
+copyright = "© 2023 blastomussa.dev"
 
 [author]
   name = "Joe Courtney"

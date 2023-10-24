@@ -13,3 +13,5 @@ hugo serve -D
 # -D to build drafts
 hugo -D
 ```
+
+**Update Blowfish module: `hugo mod get -u`**
