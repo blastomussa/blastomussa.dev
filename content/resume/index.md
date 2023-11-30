@@ -124,6 +124,12 @@ sharingLinks: false
     </thead>
     <tbody>
         <tr> 
+            <td><img class="customEntitityLogo" src="terraform.png"/></td>
+            <td></td>
+            <td rowspan=1><a href="https://www.hashicorp.com/certification/terraform-associate" target="_blank">HashiCorp</a></td>
+            <td>2023</td>
+        </tr>
+        <tr> 
             <td><img class="customEntitityLogo" src="security.png"/></td>
             <td>CompTIA Security+ ce Certification</td>
             <td rowspan=2><a href="https://www.comptia.org" target="_blank">CompTIA®</a></td>

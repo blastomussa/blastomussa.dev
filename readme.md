@@ -11,7 +11,14 @@ hugo serve -D
 
 ```
 # -D to build drafts
-hugo -D
+sudo hugo -D
 ```
 
 **Update Blowfish module: `hugo mod get -u`**
+
+## Upload build
+
+1. Open CyberDuck
+2. Paste all files in public to blastomussa.dev host 
+
+**I should probably build this into a deployment pipeline when I have some time.**
