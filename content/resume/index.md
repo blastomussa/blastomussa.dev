@@ -125,7 +125,7 @@ sharingLinks: false
     <tbody>
         <tr> 
             <td><img class="customEntitityLogo" src="terraform.png"/></td>
-            <td></td>
+            <td>HashiCorp Certified: Terraform Associate (003)</td>
             <td rowspan=1><a href="https://www.hashicorp.com/certification/terraform-associate" target="_blank">HashiCorp</a></td>
             <td>2023</td>
         </tr>
