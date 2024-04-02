@@ -24,10 +24,17 @@ sharingLinks: false
     </thead>
     <tbody>
         <tr>
+            <td ><img class="customEntitityLogo" src="dsg.jpg"/></td>
+            <td><a href="https://www.dickssportinggoods.com" target="_blank">Dick's Sporting Goods</a></td>
+            <td>Systems Engineer II - Azure</td>
+            <td>2024 - Present</td>
+            <td>Pittsburgh, PA</td>
+        </tr>
+        <tr>
             <td ><img class="customEntitityLogo" src="umasschan.png"/></td>
             <td><a href="https://www.umassmed.edu/" target="_blank">UMass Chan Medical School</a></td>
             <td>Azure Cloud Engineer</td>
-            <td>2023 - Present</td>
+            <td>2023 - 2024</td>
             <td>Worcester, MA</td>
         </tr>
         <tr>

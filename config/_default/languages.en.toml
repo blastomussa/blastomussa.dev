@@ -21,13 +21,14 @@ copyright = "© 2023 blastomussa.dev"
   name = "Joe Courtney"
   image = "img/profile.jpg"
   headline = "Building the cloud, one click at a time..."
-  bio = "Dedicated systems engineer with 6 years of experience in the IT industry and a passion for automation and cloud technologies. Python expert and API integration specialist. B.Sc. in Information Technology, CompTIA Security+, Microsoft Certified: Azure Solutions Architect Expert, and Microsoft Certified: Azure Security Engineer Associate. Currently enrolled in the MSIT program at the University of Massachusetts."
+  bio = "Experienced Systems Engineer with 7 years in the IT industry, specializing in automation and cloud technologies. B.Sc. and M.Sc. in Information Technology. Expertise in Terraform, Python, and Azure with a focus on modular development. Proven track record as an independently motivated and highly productive remote worker. Currently employed at Dick’s Sporting Goods as a Systems Engineer where I work on a team that develops standardized modular cloud solutions. Seeking opportunities to grow as a leader in driving organizational agility and innovation through the adoption of cloud-native technologies."
 
   links = [
     { github = "https://github.com/blastomussa" },
     { linkedin = "https://www.linkedin.com/in/joseph-courtney/" },
     { microsoft = "https://learn.microsoft.com/en-us/users/joecourtney/" },
-    { link = "https://www.credly.com/users/joseph-courtney" }
+    { link = "https://www.credly.com/users/joseph-courtney" },
+    { ko-fi = "https://letterboxd.com/blastomussa/" }
   ]
   #   { email = "mailto:hello@your_domain.com" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
